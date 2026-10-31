@@ -1,0 +1,197 @@
+[
+  {
+    "id": "RFQ-001",
+    "missing": [
+      "certs"
+    ],
+    "note": "No cert line at all."
+  },
+  {
+    "id": "RFQ-002",
+    "missing": [],
+    "note": "Complete, metric (mm stated)."
+  },
+  {
+    "id": "RFQ-003",
+    "missing": [
+      "quantity"
+    ],
+    "note": "No piece count given. (Corrected after validation: first pass wrongly marked this complete.) \"no certs needed\" is a stated answer."
+  },
+  {
+    "id": "RFQ-004",
+    "missing": [
+      "certs",
+      "units"
+    ],
+    "note": "Size 0.5 x 12 x 96 has no unit anywhere in the email. No cert line."
+  },
+  {
+    "id": "RFQ-005",
+    "missing": [
+      "certs",
+      "finish"
+    ],
+    "note": "Finish and certs both 'same as PO 4471': value not stated in this email."
+  },
+  {
+    "id": "RFQ-006",
+    "missing": [
+      "quantity"
+    ],
+    "note": "No piece count given."
+  },
+  {
+    "id": "RFQ-007",
+    "missing": [
+      "delivery_date"
+    ],
+    "note": "'rush, as soon as you can' is not a date."
+  },
+  {
+    "id": "RFQ-008",
+    "missing": [
+      "finish",
+      "units"
+    ],
+    "note": "OD/length and tolerance are bare numbers, no unit anywhere. No finish line."
+  },
+  {
+    "id": "RFQ-009",
+    "missing": [
+      "units"
+    ],
+    "note": "OD/length and tolerance are bare numbers, no unit anywhere."
+  },
+  {
+    "id": "RFQ-010",
+    "missing": [
+      "material_grade",
+      "tolerance"
+    ],
+    "note": "Grade and tolerance only appear in the attachment filename; body says 'see attached'."
+  },
+  {
+    "id": "RFQ-011",
+    "missing": [],
+    "note": "Complete."
+  },
+  {
+    "id": "RFQ-012",
+    "missing": [
+      "delivery_date"
+    ],
+    "note": "'Need by: ASAP' is not a date."
+  },
+  {
+    "id": "RFQ-013",
+    "missing": [],
+    "note": "Complete, metric."
+  },
+  {
+    "id": "RFQ-014",
+    "missing": [
+      "dimensions"
+    ],
+    "note": "No part size given. Units are stated via the tolerance ('in'), so units counted as present."
+  },
+  {
+    "id": "RFQ-015",
+    "missing": [
+      "material_grade"
+    ],
+    "note": "'Material is the same as our last order': value not stated."
+  },
+  {
+    "id": "RFQ-016",
+    "missing": [
+      "delivery_date",
+      "tolerance"
+    ],
+    "note": "No tolerance, no need-by date."
+  },
+  {
+    "id": "RFQ-017",
+    "missing": [],
+    "note": "Complete."
+  },
+  {
+    "id": "RFQ-018",
+    "missing": [
+      "material_grade"
+    ],
+    "note": "No material or grade anywhere."
+  },
+  {
+    "id": "RFQ-019",
+    "missing": [],
+    "note": "Complete."
+  },
+  {
+    "id": "RFQ-020",
+    "missing": [],
+    "note": "Complete."
+  },
+  {
+    "id": "RFQ-021",
+    "missing": [
+      "units"
+    ],
+    "note": "'3 OD x 0.083 wall x 240' has no unit anywhere."
+  },
+  {
+    "id": "RFQ-022",
+    "missing": [
+      "tolerance"
+    ],
+    "note": "No tolerance."
+  },
+  {
+    "id": "RFQ-023",
+    "missing": [],
+    "note": "Decoy: attachment filename repeats the grade and finish, but the body states everything."
+  },
+  {
+    "id": "RFQ-024",
+    "missing": [
+      "tolerance"
+    ],
+    "note": "No tolerance."
+  },
+  {
+    "id": "RFQ-025",
+    "missing": [],
+    "note": "Decoy: 'same as last time (zinc plate)' states the value, so finish is present."
+  },
+  {
+    "id": "RFQ-026",
+    "missing": [
+      "certs",
+      "finish"
+    ],
+    "note": "No finish line, no cert line."
+  },
+  {
+    "id": "RFQ-027",
+    "missing": [],
+    "note": "Complete."
+  },
+  {
+    "id": "RFQ-028",
+    "missing": [],
+    "note": "Complete."
+  },
+  {
+    "id": "RFQ-029",
+    "missing": [
+      "finish",
+      "material_grade"
+    ],
+    "note": "Grade and finish only in attachment filename; body says 'rest of the spec is in the attached'."
+  },
+  {
+    "id": "RFQ-030",
+    "missing": [],
+    "note": "Complete."
+  }
+]

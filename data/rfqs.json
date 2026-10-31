@@ -1,0 +1,320 @@
+[
+  {
+    "id": "RFQ-001",
+    "family": "service_center",
+    "received": "2026-03-07",
+    "subject": "Quote request",
+    "body": "Can you give me a quote for the following stock?\n\n- Grade: 6061-T651\n- Stock size: 0.75 in x 48 in x 48 in\n- Quantity: 40 pieces\n- Tolerance for cut length: \u00b11/16 in\n- Finish: Mill finish\n- Needed by: Saturday, March 21\n\nThanks!\nJoel Prins, Corrigan Hydraulics",
+    "attachments": [],
+    "ambiguity": "none",
+    "paraphrased": true
+  },
+  {
+    "id": "RFQ-002",
+    "family": "machine_shop",
+    "received": "2026-03-15",
+    "subject": "Quote request",
+    "body": "Looking for pricing on 100 turned sleeves with 12 mm OD x 25 mm long. Alloy should be 17-4 PH. Tolerances need to be +/- 0.025 mm on the bearing journal. Surface finish should be as machined. Need full material cert and CoC. Delivery by 3/24/2026.\n\nRegards,\nMei-Lin Ortega\nNorthfield Conveyor Co",
+    "attachments": [],
+    "ambiguity": "none",
+    "paraphrased": true
+  },
+  {
+    "id": "RFQ-003",
+    "family": "service_center",
+    "received": "2026-03-16",
+    "subject": "Price and lead time please",
+    "body": "Can you give me a quote for the following stock?\n\n- Material: 6061-T6\n- Dimensions: 0.25 in x 2 in x 20 ft\n- Tolerances: cut length +/- 1/16 in\n- Finish: mill finish\n- Paperwork: no certs needed\n- Need by: March 20\n\nThanks,\nGreta Lindqvist\nRedwater Pump Works",
+    "attachments": [],
+    "ambiguity": "none",
+    "paraphrased": true
+  },
+  {
+    "id": "RFQ-004",
+    "family": "service_center",
+    "received": "2026-03-21",
+    "subject": "Quote request",
+    "body": "Can you give me a quote for the following stock?\n\nAlloy 304 stainless; size 0.5 x 12 x 96; qty 12; tolerance: standard mill tolerance; surface: mill finish; delivery: April 18.\n\nHannah Doyle, Marlow Packaging Systems",
+    "attachments": [],
+    "ambiguity": "units_missing",
+    "paraphrased": true
+  },
+  {
+    "id": "RFQ-005",
+    "family": "machine_shop",
+    "received": "2026-03-09",
+    "subject": "Quote request",
+    "body": "Can you give me a quote for the following pins (turned)? The details are as follows: Grade: 1215 steel; Stock size: 1 in OD x 1 in long; Quantity: 150; Tolerances: +/- 0.005 in on all diameters; Condition: same as PO 4471; Certs: same as PO 4471; Required date: 3/13/2026.\n\nThanks,\nRavi Menon\nBright Valley Machinery",
+    "attachments": [
+      "sketch_rev1.png"
+    ],
+    "ambiguity": "same_as_last_time",
+    "paraphrased": true
+  },
+  {
+    "id": "RFQ-006",
+    "family": "machine_shop",
+    "received": "2026-03-07",
+    "subject": "Quote request",
+    "body": "Hello,\n\nI'm looking for pricing on some spacers (turned). The material is 303 stainless, and the size is 0.5 in OD x 6 in long. Tolerances are +/- 0.010 in general. Surface finish is as machined. No certificates are needed. The required date is Saturday, April 11.\n\nThanks,\nRavi Menon\nBright Valley Machinery",
+    "attachments": [],
+    "ambiguity": "none",
+    "paraphrased": true
+  },
+  {
+    "id": "RFQ-007",
+    "family": "machine_shop",
+    "received": "2026-03-10",
+    "subject": "RFQ - need pricing",
+    "body": "Hi,\n\nLooking for pricing on 4140 pre-hard shafts.\n\n- Material: 4140 pre-hard\n- Stock size: 1.5 in OD x 1.5 in long\n- Quantity: 250\n- Tolerances: +/- 0.005 in on all diameters\n- Condition: zinc plate\n- Certification: CoC and material cert\n- Delivery: rush, as soon as you can\n\nThanks,\nDana Whitfield\nHarlan Fabrication",
+    "attachments": [
+      "site_photo.jpg"
+    ],
+    "ambiguity": "none",
+    "paraphrased": true
+  },
+  {
+    "id": "RFQ-008",
+    "family": "machine_shop",
+    "received": "2026-03-06",
+    "subject": "RFQ - need pricing",
+    "body": "Can you give me a quote for the following shafts (turned)?\n- Material: 316 stainless\n- Dimensions: 1.25 OD x 1.5 long\n- Pieces: 250\n- Tolerance: +/- 0.005 on all diameters\n- Certification: RoHS cert plus CoC\n- Needed by: April 10\n\nThanks!\nAisha Rahman, Cedar Point Fabricators",
+    "attachments": [],
+    "ambiguity": "units_missing",
+    "paraphrased": true
+  },
+  {
+    "id": "RFQ-009",
+    "family": "machine_shop",
+    "received": "2026-03-23",
+    "subject": "Quote on turned parts",
+    "body": "Hi,\n\nLooking for pricing on adapter pins (turned):\n\n- Grade: 17-4 PH\n- Stock size: 1.5 OD x 2 long\n- Qty: 50\n- Tol: +/- 0.010 general\n- Finish: passivate per ASTM A967\n- Certs: no certs needed\n- Need by: Friday, March 27\n\nThanks,\nPete Kowalczyk\nStonebridge Mining Supply",
+    "attachments": [],
+    "ambiguity": "units_missing",
+    "paraphrased": true
+  },
+  {
+    "id": "RFQ-010",
+    "family": "machine_shop",
+    "received": "2026-03-17",
+    "subject": "Quote request",
+    "body": "Please quote sleeves (turned) per below.\ndimensions 1 in OD x 1 in long; quantity 500; finish passivate per ASTM A967; certification RoHS cert plus CoC; delivery March 31; see attached for the spec details.\n\nSam Okafor, Tallgrass Equipment",
+    "attachments": [
+      "303stainless_tol0p010_spec_sheet_rev3.pdf"
+    ],
+    "ambiguity": "attachment_filename",
+    "paraphrased": false
+  },
+  {
+    "id": "RFQ-011",
+    "family": "service_center",
+    "received": "2026-03-26",
+    "subject": "Quote on round bar",
+    "body": "Hi,\n\nLooking for pricing on some C360 brass stock. Details are as follows:\n- Dimensions: 1.25 in dia x 12 ft\n- Quantity: 40 pieces\n- Tolerance: thickness per ASTM A6, length +/- 1/8 in\n- Surface finish: cold drawn\n- Certification: EN 10204 3.1 cert with each heat\n- Required by: April 9\n\nThanks,\nTom Barlow\nPinecrest Automation",
+    "attachments": [],
+    "ambiguity": "none",
+    "paraphrased": true
+  },
+  {
+    "id": "RFQ-012",
+    "family": "service_center",
+    "received": "2026-03-05",
+    "subject": "RFQ - need pricing",
+    "body": "Please quote stock as per the details below:\n\nGrade: A36  \nSize: 0.75 in x 36 in x 96 in  \nQty: 40  \nTolerance: mill standard tolerance  \nFinish: hot rolled, pickled and oiled  \nPaperwork: certified MTRs please  \nNeed by: ASAP\n\nThanks,\nSam Okafor\nTallgrass Equipment",
+    "attachments": [
+      "PO_draft.pdf"
+    ],
+    "ambiguity": "none",
+    "paraphrased": true
+  },
+  {
+    "id": "RFQ-013",
+    "family": "service_center",
+    "received": "2026-03-07",
+    "subject": "Quote on tube",
+    "body": "Please quote stock per below:\n\n- Material: 6061-T6\n- Dimensions: 25 mm OD x 3 mm wall x 6000 mm\n- Quantity: 25\n- Tol: cut length \u00b11.5 mm\n- Finish: mill finish\n- Certs: certified MTRs please\n- Need by: Saturday, April 11\n\nThanks,\nTom Barlow\nPinecrest Automation",
+    "attachments": [],
+    "ambiguity": "none",
+    "paraphrased": true
+  },
+  {
+    "id": "RFQ-014",
+    "family": "machine_shop",
+    "received": "2026-03-09",
+    "subject": "Price and lead time please",
+    "body": "Can you give me a quote for 500 Grade 7075-T6 fitting blanks (turned)? The tolerance on the bearing journal needs to be +/- 0.001 in. They should be clear anodize Type II. We need the CoC and material cert. They're needed by March 30.\n\nThanks,\nSam Okafor\nTallgrass Equipment",
+    "attachments": [
+      "site_photo.jpg"
+    ],
+    "ambiguity": "none",
+    "paraphrased": true
+  },
+  {
+    "id": "RFQ-015",
+    "family": "service_center",
+    "received": "2026-03-12",
+    "subject": "Price and lead time please",
+    "body": "Hello,\n\nLooking for pricing on stock. Material is the same as our last order. Dimensions are 0.5 in x 12 in x 120 in. Quantity is 25. Tolerance is +/- 0.03 in on length. Surface finish should be hot rolled, pickled and oiled. Please include certified MTRs. Delivery date is March 16.\n\nThanks,\nDana Whitfield\nHarlan Fabrication",
+    "attachments": [],
+    "ambiguity": "same_as_last_time",
+    "paraphrased": true
+  },
+  {
+    "id": "RFQ-016",
+    "family": "service_center",
+    "received": "2026-03-14",
+    "subject": "Quote request",
+    "body": "Looking for a quote on some stock.\n\nMaterial: 6061-T6; Size: 0.5 in x 4 in x 20 ft; Pieces: 40; Finish: Mill finish; Paperwork: EN 10204 3.1 cert with each heat.\n\nGreta Lindqvist, Redwater Pump Works",
+    "attachments": [],
+    "ambiguity": "none",
+    "paraphrased": true
+  },
+  {
+    "id": "RFQ-017",
+    "family": "machine_shop",
+    "received": "2026-03-27",
+    "subject": "Quote request",
+    "body": "Hi,\n\nLooking for a quote on spacers (turned).\nGrade 4140 pre-hard; dimensions 0.5 in OD x 4 in long; quantity 150; tolerances +/- 0.002 in on OD; finish black oxide; certification RoHS cert plus CoC; delivery 2026-04-10.\n\nJoel Prins, Corrigan Hydraulics",
+    "attachments": [],
+    "ambiguity": "none",
+    "paraphrased": true
+  },
+  {
+    "id": "RFQ-018",
+    "family": "service_center",
+    "received": "2026-03-20",
+    "subject": "Quote request",
+    "body": "Can you quote the following stock?\nDimensions: 0.75 in x 1 in x 20 ft; Quantity: 25; Tolerance: +/- 0.03 in on length; Finish: mill finish; Certification: no certs needed; Delivery: Friday, April 17.\n\nNadia Haddad, Ashby Trailer & Body",
+    "attachments": [],
+    "ambiguity": "none",
+    "paraphrased": true
+  },
+  {
+    "id": "RFQ-019",
+    "family": "machine_shop",
+    "received": "2026-03-12",
+    "subject": "Quote request",
+    "body": "Looking for a quote on some bushings (turned). They're made of alloy 1215 steel, 0.375 in OD x 2 in long, 150 pieces total. The tolerance on the bearing journal needs to be +/- 0.001 in. Surface finish should be as machined. No certificates are needed. Required by 4/9/2026.\n\nNadia Haddad, Ashby Trailer & Body",
+    "attachments": [
+      "site_photo.jpg"
+    ],
+    "ambiguity": "none",
+    "paraphrased": true
+  },
+  {
+    "id": "RFQ-020",
+    "family": "service_center",
+    "received": "2026-03-15",
+    "subject": "Quote request",
+    "body": "Can you give me a quote for the following?\n\nAlloy 304/304L; 3 in dia x 12 ft; 25 pieces; tolerances to mill standard; finish centerless ground; please include certified MTRs.\n\nNeed by 3/19/2026.\n\nDana Whitfield, Harlan Fabrication",
+    "attachments": [],
+    "ambiguity": "none",
+    "paraphrased": true
+  },
+  {
+    "id": "RFQ-021",
+    "family": "service_center",
+    "received": "2026-03-14",
+    "subject": "Price and lead time please",
+    "body": "Please quote the stock as per the details below:\n- Material: 316L\n- Dimensions: 3 OD x 0.083 wall x 240\n- Pieces: 12\n- Tolerance: Mill standard tolerance\n- Condition: Mill finish\n- Certification: No certificates needed\n- Delivery: 4/11/2026\n\nLuis Ferreira, Kestrel Tooling",
+    "attachments": [
+      "contact_list.xlsx"
+    ],
+    "ambiguity": "units_missing",
+    "paraphrased": true
+  },
+  {
+    "id": "RFQ-022",
+    "family": "service_center",
+    "received": "2026-03-22",
+    "subject": "Quote request",
+    "body": "Can you give me a quote for the following stock? It's Grade A36, size 0.5 in x 12 in x 96 in, quantity 25, and finish should be hot rolled, pickled and oiled. No certificates are needed, and it's needed by Thursday, March 26.\n\nThanks,\nRavi Menon\nBright Valley Machinery",
+    "attachments": [],
+    "ambiguity": "none",
+    "paraphrased": true
+  },
+  {
+    "id": "RFQ-023",
+    "family": "machine_shop",
+    "received": "2026-03-15",
+    "subject": "Price and lead time please",
+    "body": "Hello,\n\nLooking for pricing on bushings (turned). Grade: 1215 steel. Stock size: 1.5 in OD x 3.5 in long. Qty: 25. Tolerance: +/- 0.010 in general. Condition: as machined. Certification: RoHS cert plus CoC. Delivery: April 12.\n\nRegards,\nGreta Lindqvist\nRedwater Pump Works",
+    "attachments": [
+      "1215steel_asmachined_spec_rev2.pdf"
+    ],
+    "ambiguity": "attachment_filename",
+    "paraphrased": false
+  },
+  {
+    "id": "RFQ-024",
+    "family": "machine_shop",
+    "received": "2026-03-21",
+    "subject": "Quote on turned parts",
+    "body": "Hello,\n\nI'm looking for a quote on 6061-T6 shafts (turned).\n\n- Stock size: 2 in OD x 1 in long\n- Quantity: 50\n- Condition: black anodize Type II\n- Certification: full material cert and CoC\n- Required date: March 30\n\nThanks,\nHannah Doyle\nMarlow Packaging Systems",
+    "attachments": [],
+    "ambiguity": "none",
+    "paraphrased": true
+  },
+  {
+    "id": "RFQ-025",
+    "family": "machine_shop",
+    "received": "2026-03-27",
+    "subject": "Price and lead time please",
+    "body": "Hi,\n\nCan you please quote pins (turned) as per the details below?\n- Material: 1215 steel\n- Stock size: 1.25 in OD x 1.5 in long\n- Quantity: 250\n- Tolerance: +/- 0.001 in on the bearing journal\n- Surface finish: same as last time (zinc plate)\n- Certification: full material cert and CoC\nNeed by: 4/17/2026\n\nThanks,\nJoel Prins, Corrigan Hydraulics",
+    "attachments": [],
+    "ambiguity": "same_as_last_time",
+    "paraphrased": true
+  },
+  {
+    "id": "RFQ-026",
+    "family": "machine_shop",
+    "received": "2026-03-18",
+    "subject": "Quote on turned parts",
+    "body": "Hi,\n\nI'm reaching out to get a quote on some bushings (turned). They need to be 316 stainless, with a stock size of 0.5 in OD x 4 in long. I need 100 of them, and the tolerances should be +/- 0.005 in on all diameters. Delivery by Wednesday, April 22 would be great.\n\nThanks,\nPete Kowalczyk\nStonebridge Mining Supply",
+    "attachments": [],
+    "ambiguity": "none",
+    "paraphrased": true
+  },
+  {
+    "id": "RFQ-027",
+    "family": "service_center",
+    "received": "2026-03-11",
+    "subject": "Quote on tube",
+    "body": "Please quote stock as per the details below:\n\n- Alloy: 6061-T6\n- Stock size: 1 in OD x 0.188 in wall x 20 ft\n- Pieces: 20\n- Tolerance: cut length \u00b1 1/16 in\n- Surface: mill finish\n- Certification: EN 10204 3.1 cert with each heat\n- Delivery: April 8\n\nThanks,\nMei-Lin Ortega\nNorthfield Conveyor Co",
+    "attachments": [],
+    "ambiguity": "none",
+    "paraphrased": true
+  },
+  {
+    "id": "RFQ-028",
+    "family": "machine_shop",
+    "received": "2026-03-03",
+    "subject": "Quote on turned parts",
+    "body": "Please quote adapter pins (turned) as per the details below:\n\n- Grade: 316 stainless\n- Dimensions: 0.5 in OD x 1.5 in long\n- Quantity: 50\n- Tolerance: +/- 0.002 in on OD\n- Surface: passivate per ASTM A967\n- Paperwork: RoHS cert plus CoC\n- Delivery: 2026-03-17\n\nThanks,\nLuis Ferreira\nKestrel Tooling",
+    "attachments": [],
+    "ambiguity": "none",
+    "paraphrased": true
+  },
+  {
+    "id": "RFQ-029",
+    "family": "service_center",
+    "received": "2026-03-11",
+    "subject": "Quote on flat",
+    "body": "Hello,\n\nPlease quote stock per below. Dimensions: 0.75 in x 1.5 in x 20 ft. Pieces: 60. Tolerance: mill standard tolerance. Certification: EN 10204 3.1 cert with each heat. Required date: March 20. rest of the spec is in the attached\n\nRegards,\nMei-Lin Ortega\nNorthfield Conveyor Co",
+    "attachments": [
+      "A36_hotrolled_spec_sheet_rev3.pdf"
+    ],
+    "ambiguity": "attachment_filename",
+    "paraphrased": false
+  },
+  {
+    "id": "RFQ-030",
+    "family": "machine_shop",
+    "received": "2026-03-07",
+    "subject": "Price and lead time please",
+    "body": "Please quote sleeves (turned) per the details below:\n\n- Alloy: 4140 pre-hard\n- Stock size: 1 in OD x 6 in long\n- Pieces: 250\n- Tolerance: +/- 0.002 in on OD\n- Finish: as machined\n- Certs: no certs needed\n- Delivery: 2026-03-28\n\nThanks,\nAisha Rahman\nCedar Point Fabricators",
+    "attachments": [],
+    "ambiguity": "none",
+    "paraphrased": true
+  }
+]
