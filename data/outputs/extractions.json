@@ -1,0 +1,1027 @@
+{
+  "model": "qwen2.5:7b-instruct",
+  "prompt_version": "v1",
+  "temperature": 0,
+  "extractions": {
+    "RFQ-001": {
+      "material_grade": {
+        "value": "6061-T651",
+        "evidence": "Grade: 6061-T651"
+      },
+      "dimensions": {
+        "value": "0.75 in x 48 in x 48 in",
+        "evidence": "Stock size: 0.75 in x 48 in x 48 in"
+      },
+      "tolerance": {
+        "value": "+/-1/16 in",
+        "evidence": "Tolerance for cut length: \u00b11/16 in"
+      },
+      "quantity": {
+        "value": "40",
+        "evidence": "Quantity: 40 pieces"
+      },
+      "finish": {
+        "value": "Mill finish",
+        "evidence": "Finish: Mill finish"
+      },
+      "certs": {
+        "value": null,
+        "evidence": null
+      },
+      "delivery_date": {
+        "value": "2026-03-21",
+        "evidence": "Needed by: Saturday, March 21"
+      },
+      "units": {
+        "value": "in",
+        "evidence": "Stock size: 0.75 in x 48 in x 48 in"
+      }
+    },
+    "RFQ-002": {
+      "material_grade": {
+        "value": "17-4 PH",
+        "evidence": "Alloy should be 17-4 PH"
+      },
+      "dimensions": {
+        "value": "12 mm OD x 25 mm long",
+        "evidence": "12 mm OD x 25 mm long"
+      },
+      "tolerance": {
+        "value": "+/- 0.025 mm",
+        "evidence": "Tolerances need to be +/- 0.025 mm on the bearing journal"
+      },
+      "quantity": {
+        "value": "100",
+        "evidence": "Looking for pricing on 100 turned sleeves"
+      },
+      "finish": {
+        "value": "as machined",
+        "evidence": "Surface finish should be as machined"
+      },
+      "certs": {
+        "value": "full material cert and CoC",
+        "evidence": "Need full material cert and CoC"
+      },
+      "delivery_date": {
+        "value": "2026-03-24",
+        "evidence": "Delivery by 3/24/2026"
+      },
+      "units": {
+        "value": "mm",
+        "evidence": "12 mm OD x 25 mm long"
+      }
+    },
+    "RFQ-003": {
+      "material_grade": {
+        "value": "6061-T6",
+        "evidence": "Material: 6061-T6"
+      },
+      "dimensions": {
+        "value": "0.25 in x 2 in x 20 ft",
+        "evidence": "Dimensions: 0.25 in x 2 in x 20 ft"
+      },
+      "tolerance": {
+        "value": "+/- 1/16 in",
+        "evidence": "Tolerances: cut length +/- 1/16 in"
+      },
+      "quantity": {
+        "value": null,
+        "evidence": null
+      },
+      "finish": {
+        "value": "mill finish",
+        "evidence": "Finish: mill finish"
+      },
+      "certs": {
+        "value": "none",
+        "evidence": "Paperwork: no certs needed"
+      },
+      "delivery_date": {
+        "value": "2026-03-20",
+        "evidence": "Need by: March 20"
+      },
+      "units": {
+        "value": "in",
+        "evidence": "Dimensions: 0.25 in x 2 in x 20 ft"
+      }
+    },
+    "RFQ-004": {
+      "material_grade": {
+        "value": "304 stainless",
+        "evidence": "Alloy 304 stainless"
+      },
+      "dimensions": {
+        "value": "0.5 x 12 x 96",
+        "evidence": "size 0.5 x 12 x 96"
+      },
+      "tolerance": {
+        "value": "standard mill tolerance",
+        "evidence": "tolerance: standard mill tolerance"
+      },
+      "quantity": {
+        "value": "12",
+        "evidence": "qty 12"
+      },
+      "finish": {
+        "value": "mill finish",
+        "evidence": "surface: mill finish"
+      },
+      "certs": {
+        "value": null,
+        "evidence": null
+      },
+      "delivery_date": {
+        "value": "2026-04-18",
+        "evidence": "delivery: April 18"
+      },
+      "units": {
+        "value": "in",
+        "evidence": "0.5 x 12 x 96"
+      }
+    },
+    "RFQ-005": {
+      "material_grade": {
+        "value": "1215 steel",
+        "evidence": "Grade: 1215 steel"
+      },
+      "dimensions": {
+        "value": "1 in OD x 1 in long",
+        "evidence": "Stock size: 1 in OD x 1 in long"
+      },
+      "tolerance": {
+        "value": "+/- 0.005 in on all diameters",
+        "evidence": "Tolerances: +/- 0.005 in on all diameters"
+      },
+      "quantity": {
+        "value": "150",
+        "evidence": "Quantity: 150"
+      },
+      "finish": {
+        "value": null,
+        "evidence": null
+      },
+      "certs": {
+        "value": "same as PO 4471",
+        "evidence": "Certs: same as PO 4471"
+      },
+      "delivery_date": {
+        "value": "2026-03-13",
+        "evidence": "Required date: 3/13/2026"
+      },
+      "units": {
+        "value": "in",
+        "evidence": "Stock size: 1 in OD x 1 in long"
+      }
+    },
+    "RFQ-006": {
+      "material_grade": {
+        "value": "303 stainless",
+        "evidence": "The material is 303 stainless,"
+      },
+      "dimensions": {
+        "value": "0.5 in OD x 6 in long",
+        "evidence": "The size is 0.5 in OD x 6 in long."
+      },
+      "tolerance": {
+        "value": "+/- 0.010 in",
+        "evidence": "Tolerances are +/- 0.010 in general."
+      },
+      "quantity": {
+        "value": null,
+        "evidence": null
+      },
+      "finish": {
+        "value": "as machined",
+        "evidence": "Surface finish is as machined."
+      },
+      "certs": {
+        "value": "none",
+        "evidence": "No certificates are needed."
+      },
+      "delivery_date": {
+        "value": "2026-04-11",
+        "evidence": "The required date is Saturday, April 11"
+      },
+      "units": {
+        "value": "in",
+        "evidence": "The size is 0.5 in OD x 6 in long."
+      }
+    },
+    "RFQ-007": {
+      "material_grade": {
+        "value": "4140 pre-hard",
+        "evidence": "Material: 4140 pre-hard"
+      },
+      "dimensions": {
+        "value": "1.5 in OD x 1.5 in long",
+        "evidence": "Stock size: 1.5 in OD x 1.5 in long"
+      },
+      "tolerance": {
+        "value": "+/- 0.005 in on all diameters",
+        "evidence": "Tolerances: +/- 0.005 in on all diameters"
+      },
+      "quantity": {
+        "value": "250",
+        "evidence": "Quantity: 250"
+      },
+      "finish": {
+        "value": "zinc plate",
+        "evidence": "Condition: zinc plate"
+      },
+      "certs": {
+        "value": "CoC and material cert",
+        "evidence": "Certification: CoC and material cert"
+      },
+      "delivery_date": {
+        "value": null,
+        "evidence": "Delivery: rush, as soon as you can"
+      },
+      "units": {
+        "value": "in",
+        "evidence": "1.5 in OD x 1.5 in long"
+      }
+    },
+    "RFQ-008": {
+      "material_grade": {
+        "value": "316 stainless",
+        "evidence": "Material: 316 stainless"
+      },
+      "dimensions": {
+        "value": "1.25 OD x 1.5 long",
+        "evidence": "Dimensions: 1.25 OD x 1.5 long"
+      },
+      "tolerance": {
+        "value": "+/- 0.005 on all diameters",
+        "evidence": "Tolerance: +/- 0.005 on all diameters"
+      },
+      "quantity": {
+        "value": "250",
+        "evidence": "Pieces: 250"
+      },
+      "finish": {
+        "value": null,
+        "evidence": null
+      },
+      "certs": {
+        "value": "RoHS cert plus CoC",
+        "evidence": "Certification: RoHS cert plus CoC"
+      },
+      "delivery_date": {
+        "value": "2026-04-10",
+        "evidence": "Needed by: April 10"
+      },
+      "units": {
+        "value": "in",
+        "evidence": "1.25 OD x 1.5 long"
+      }
+    },
+    "RFQ-009": {
+      "material_grade": {
+        "value": "17-4 PH",
+        "evidence": "Grade: 17-4 PH"
+      },
+      "dimensions": {
+        "value": "1.5 OD x 2 long",
+        "evidence": "Stock size: 1.5 OD x 2 long"
+      },
+      "tolerance": {
+        "value": "+/- 0.010 general",
+        "evidence": "Tol: +/- 0.010 general"
+      },
+      "quantity": {
+        "value": "50",
+        "evidence": "Qty: 50"
+      },
+      "finish": {
+        "value": "passivate per ASTM A967",
+        "evidence": "Finish: passivate per ASTM A967"
+      },
+      "certs": {
+        "value": "none",
+        "evidence": "Certs: no certs needed"
+      },
+      "delivery_date": {
+        "value": "2026-03-27",
+        "evidence": "Need by: Friday, March 27"
+      },
+      "units": {
+        "value": null,
+        "evidence": null
+      }
+    },
+    "RFQ-010": {
+      "material_grade": {
+        "value": null,
+        "evidence": null
+      },
+      "dimensions": {
+        "value": "1 in OD x 1 in long",
+        "evidence": "dimensions 1 in OD x 1 in long"
+      },
+      "tolerance": {
+        "value": null,
+        "evidence": null
+      },
+      "quantity": {
+        "value": "500",
+        "evidence": "quantity 500"
+      },
+      "finish": {
+        "value": "passivate per ASTM A967",
+        "evidence": "finish passivate per ASTM A967"
+      },
+      "certs": {
+        "value": "RoHS cert plus CoC",
+        "evidence": "certification RoHS cert plus CoC"
+      },
+      "delivery_date": {
+        "value": "2026-03-31",
+        "evidence": "delivery March 31"
+      },
+      "units": {
+        "value": "in",
+        "evidence": "dimensions 1 in OD x 1 in long"
+      }
+    },
+    "RFQ-011": {
+      "material_grade": {
+        "value": "C360 brass",
+        "evidence": "C360 brass stock"
+      },
+      "dimensions": {
+        "value": "1.25 in dia x 12 ft",
+        "evidence": "1.25 in dia x 12 ft"
+      },
+      "tolerance": {
+        "value": "length +/- 1/8 in",
+        "evidence": "length +/- 1/8 in"
+      },
+      "quantity": {
+        "value": "40",
+        "evidence": "40 pieces"
+      },
+      "finish": {
+        "value": "cold drawn",
+        "evidence": "cold drawn"
+      },
+      "certs": {
+        "value": "EN 10204 3.1 cert with each heat",
+        "evidence": "EN 10204 3.1 cert with each heat"
+      },
+      "delivery_date": {
+        "value": "2026-04-09",
+        "evidence": "Required by: April 9"
+      },
+      "units": {
+        "value": "in",
+        "evidence": "1.25 in dia x 12 ft"
+      }
+    },
+    "RFQ-012": {
+      "material_grade": {
+        "value": "A36",
+        "evidence": "Grade: A36"
+      },
+      "dimensions": {
+        "value": "0.75 in x 36 in x 96 in",
+        "evidence": "Size: 0.75 in x 36 in x 96 in"
+      },
+      "tolerance": {
+        "value": "mill standard tolerance",
+        "evidence": "Tolerance: mill standard tolerance"
+      },
+      "quantity": {
+        "value": "40",
+        "evidence": "Qty: 40"
+      },
+      "finish": {
+        "value": "hot rolled, pickled and oiled",
+        "evidence": "Finish: hot rolled, pickled and oiled"
+      },
+      "certs": {
+        "value": "certified MTRs please",
+        "evidence": "Paperwork: certified MTRs please"
+      },
+      "delivery_date": {
+        "value": null,
+        "evidence": "Need by: ASAP"
+      },
+      "units": {
+        "value": "in",
+        "evidence": "Size: 0.75 in x 36 in x 96 in"
+      }
+    },
+    "RFQ-013": {
+      "material_grade": {
+        "value": "6061-T6",
+        "evidence": "Material: 6061-T6"
+      },
+      "dimensions": {
+        "value": "25 mm OD x 3 mm wall x 6000 mm",
+        "evidence": "Dimensions: 25 mm OD x 3 mm wall x 6000 mm"
+      },
+      "tolerance": {
+        "value": "cut length \u00b11.5 mm",
+        "evidence": "Tol: cut length \u00b11.5 mm"
+      },
+      "quantity": {
+        "value": "25",
+        "evidence": "Quantity: 25"
+      },
+      "finish": {
+        "value": "mill finish",
+        "evidence": "Finish: mill finish"
+      },
+      "certs": {
+        "value": "certified MTRs please",
+        "evidence": "Certs: certified MTRs please"
+      },
+      "delivery_date": {
+        "value": "2026-04-11",
+        "evidence": "Need by: Saturday, April 11"
+      },
+      "units": {
+        "value": "mm",
+        "evidence": "Dimensions: 25 mm OD x 3 mm wall x 6000 mm"
+      }
+    },
+    "RFQ-014": {
+      "material_grade": {
+        "value": "7075-T6",
+        "evidence": "Grade 7075-T6"
+      },
+      "dimensions": {
+        "value": null,
+        "evidence": null
+      },
+      "tolerance": {
+        "value": "+/- 0.001 in",
+        "evidence": "The tolerance on the bearing journal needs to be +/- 0.001 in"
+      },
+      "quantity": {
+        "value": "500",
+        "evidence": "500 Grade 7075-T6 fitting blanks"
+      },
+      "finish": {
+        "value": "clear anodize Type II",
+        "evidence": "clear anodize Type II"
+      },
+      "certs": {
+        "value": "CoC and material cert",
+        "evidence": "We need the CoC and material cert"
+      },
+      "delivery_date": {
+        "value": "2026-03-30",
+        "evidence": "They're needed by March 30"
+      },
+      "units": {
+        "value": null,
+        "evidence": null
+      }
+    },
+    "RFQ-015": {
+      "material_grade": {
+        "value": null,
+        "evidence": null
+      },
+      "dimensions": {
+        "value": "0.5 in x 12 in x 120 in",
+        "evidence": "Dimensions are 0.5 in x 12 in x 120 in."
+      },
+      "tolerance": {
+        "value": "+/- 0.03 in on length",
+        "evidence": "Tolerance is +/- 0.03 in on length."
+      },
+      "quantity": {
+        "value": "25",
+        "evidence": "Quantity is 25."
+      },
+      "finish": {
+        "value": "hot rolled, pickled and oiled",
+        "evidence": "Surface finish should be hot rolled, pickled and oiled."
+      },
+      "certs": {
+        "value": "MTRs",
+        "evidence": "Please include certified MTRs."
+      },
+      "delivery_date": {
+        "value": "2026-03-16",
+        "evidence": "Delivery date is March 16"
+      },
+      "units": {
+        "value": "in",
+        "evidence": "0.5 in x 12 in x 120 in"
+      }
+    },
+    "RFQ-016": {
+      "material_grade": {
+        "value": "6061-T6",
+        "evidence": "Material: 6061-T6"
+      },
+      "dimensions": {
+        "value": "0.5 in x 4 in x 20 ft",
+        "evidence": "Size: 0.5 in x 4 in x 20 ft"
+      },
+      "tolerance": {
+        "value": null,
+        "evidence": null
+      },
+      "quantity": {
+        "value": "40",
+        "evidence": "Pieces: 40"
+      },
+      "finish": {
+        "value": "Mill finish",
+        "evidence": "Finish: Mill finish"
+      },
+      "certs": {
+        "value": "EN 10204 3.1 cert with each heat",
+        "evidence": "Paperwork: EN 10204 3.1 cert with each heat"
+      },
+      "delivery_date": {
+        "value": null,
+        "evidence": null
+      },
+      "units": {
+        "value": "in",
+        "evidence": "Size: 0.5 in x 4 in x 20 ft"
+      }
+    },
+    "RFQ-017": {
+      "material_grade": {
+        "value": "4140 pre-hard",
+        "evidence": "Grade 4140 pre-hard"
+      },
+      "dimensions": {
+        "value": "0.5 in OD x 4 in long",
+        "evidence": "dimensions 0.5 in OD x 4 in long"
+      },
+      "tolerance": {
+        "value": "+/- 0.002 in on OD",
+        "evidence": "tolerances +/- 0.002 in on OD"
+      },
+      "quantity": {
+        "value": "150",
+        "evidence": "quantity 150"
+      },
+      "finish": {
+        "value": "black oxide",
+        "evidence": "finish black oxide"
+      },
+      "certs": {
+        "value": "RoHS cert plus CoC",
+        "evidence": "certification RoHS cert plus CoC"
+      },
+      "delivery_date": {
+        "value": "2026-04-10",
+        "evidence": "delivery 2026-04-10"
+      },
+      "units": {
+        "value": "in",
+        "evidence": "0.5 in OD x 4 in long"
+      }
+    },
+    "RFQ-018": {
+      "material_grade": {
+        "value": null,
+        "evidence": null
+      },
+      "dimensions": {
+        "value": "0.75 in x 1 in x 20 ft",
+        "evidence": "Dimensions: 0.75 in x 1 in x 20 ft"
+      },
+      "tolerance": {
+        "value": "+/- 0.03 in on length",
+        "evidence": "Tolerance: +/- 0.03 in on length"
+      },
+      "quantity": {
+        "value": "25",
+        "evidence": "Quantity: 25"
+      },
+      "finish": {
+        "value": "mill finish",
+        "evidence": "Finish: mill finish"
+      },
+      "certs": {
+        "value": "none",
+        "evidence": "Certification: no certs needed"
+      },
+      "delivery_date": {
+        "value": "2026-04-17",
+        "evidence": "Delivery: Friday, April 17"
+      },
+      "units": {
+        "value": "in",
+        "evidence": "Dimensions: 0.75 in x 1 in x 20 ft"
+      }
+    },
+    "RFQ-019": {
+      "material_grade": {
+        "value": "1215 steel",
+        "evidence": "They're made of alloy 1215 steel"
+      },
+      "dimensions": {
+        "value": "0.375 in OD x 2 in long",
+        "evidence": "0.375 in OD x 2 in long"
+      },
+      "tolerance": {
+        "value": "+/- 0.001 in",
+        "evidence": "The tolerance on the bearing journal needs to be +/- 0.001 in"
+      },
+      "quantity": {
+        "value": "150",
+        "evidence": "150 pieces total"
+      },
+      "finish": {
+        "value": "as machined",
+        "evidence": "Surface finish should be as machined"
+      },
+      "certs": {
+        "value": "none",
+        "evidence": "No certificates are needed"
+      },
+      "delivery_date": {
+        "value": "2026-04-09",
+        "evidence": "Required by 4/9/2026"
+      },
+      "units": {
+        "value": "in",
+        "evidence": "0.375 in OD x 2 in long"
+      }
+    },
+    "RFQ-020": {
+      "material_grade": {
+        "value": "304/304L",
+        "evidence": "Alloy 304/304L"
+      },
+      "dimensions": {
+        "value": "3 in dia x 12 ft",
+        "evidence": "3 in dia x 12 ft"
+      },
+      "tolerance": {
+        "value": "mill standard",
+        "evidence": "tolerances to mill standard"
+      },
+      "quantity": {
+        "value": "25",
+        "evidence": "25 pieces"
+      },
+      "finish": {
+        "value": "centerless ground",
+        "evidence": "finish centerless ground"
+      },
+      "certs": {
+        "value": "MTRs",
+        "evidence": "please include certified MTRs"
+      },
+      "delivery_date": {
+        "value": "2026-03-19",
+        "evidence": "Need by 3/19/2026"
+      },
+      "units": {
+        "value": "in",
+        "evidence": "3 in dia x 12 ft"
+      }
+    },
+    "RFQ-021": {
+      "material_grade": {
+        "value": "316L",
+        "evidence": "Material: 316L"
+      },
+      "dimensions": {
+        "value": "3 OD x 0.083 wall x 240",
+        "evidence": "Dimensions: 3 OD x 0.083 wall x 240"
+      },
+      "tolerance": {
+        "value": "Mill standard tolerance",
+        "evidence": "Tolerance: Mill standard tolerance"
+      },
+      "quantity": {
+        "value": "12",
+        "evidence": "Pieces: 12"
+      },
+      "finish": {
+        "value": "Mill finish",
+        "evidence": "Condition: Mill finish"
+      },
+      "certs": {
+        "value": "none",
+        "evidence": "Certification: No certificates needed"
+      },
+      "delivery_date": {
+        "value": "2026-04-11",
+        "evidence": "Delivery: 4/11/2026"
+      },
+      "units": {
+        "value": null,
+        "evidence": null
+      }
+    },
+    "RFQ-022": {
+      "material_grade": {
+        "value": "A36",
+        "evidence": "Grade A36"
+      },
+      "dimensions": {
+        "value": "0.5 in x 12 in x 96 in",
+        "evidence": "size 0.5 in x 12 in x 96 in"
+      },
+      "tolerance": {
+        "value": null,
+        "evidence": null
+      },
+      "quantity": {
+        "value": "25",
+        "evidence": "quantity 25"
+      },
+      "finish": {
+        "value": "hot rolled, pickled and oiled",
+        "evidence": "finish should be hot rolled, pickled and oiled"
+      },
+      "certs": {
+        "value": "none",
+        "evidence": "No certificates are needed"
+      },
+      "delivery_date": {
+        "value": "2026-03-26",
+        "evidence": "it's needed by Thursday, March 26"
+      },
+      "units": {
+        "value": "in",
+        "evidence": "0.5 in x 12 in x 96 in"
+      }
+    },
+    "RFQ-023": {
+      "material_grade": {
+        "value": "1215 steel",
+        "evidence": "Grade: 1215 steel"
+      },
+      "dimensions": {
+        "value": "1.5 in OD x 3.5 in long",
+        "evidence": "Stock size: 1.5 in OD x 3.5 in long"
+      },
+      "tolerance": {
+        "value": "+/- 0.010 in general",
+        "evidence": "Tolerance: +/- 0.010 in general"
+      },
+      "quantity": {
+        "value": "25",
+        "evidence": "Qty: 25"
+      },
+      "finish": {
+        "value": "as machined",
+        "evidence": "Condition: as machined"
+      },
+      "certs": {
+        "value": "RoHS cert plus CoC",
+        "evidence": "Certification: RoHS cert plus CoC"
+      },
+      "delivery_date": {
+        "value": "2026-04-12",
+        "evidence": "Delivery: April 12"
+      },
+      "units": {
+        "value": "in",
+        "evidence": "1.5 in OD x 3.5 in long"
+      }
+    },
+    "RFQ-024": {
+      "material_grade": {
+        "value": "6061-T6",
+        "evidence": "6061-T6 shafts"
+      },
+      "dimensions": {
+        "value": "2 in OD x 1 in long",
+        "evidence": "2 in OD x 1 in long"
+      },
+      "tolerance": {
+        "value": null,
+        "evidence": null
+      },
+      "quantity": {
+        "value": "50",
+        "evidence": "Quantity: 50"
+      },
+      "finish": {
+        "value": "black anodize Type II",
+        "evidence": "Condition: black anodize Type II"
+      },
+      "certs": {
+        "value": "full material cert and CoC",
+        "evidence": "Certification: full material cert and CoC"
+      },
+      "delivery_date": {
+        "value": "2026-03-30",
+        "evidence": "Required date: March 30"
+      },
+      "units": {
+        "value": "in",
+        "evidence": "2 in OD x 1 in long"
+      }
+    },
+    "RFQ-025": {
+      "material_grade": {
+        "value": "1215 steel",
+        "evidence": "Material: 1215 steel"
+      },
+      "dimensions": {
+        "value": "1.25 in OD x 1.5 in long",
+        "evidence": "Stock size: 1.25 in OD x 1.5 in long"
+      },
+      "tolerance": {
+        "value": "+/- 0.001 in",
+        "evidence": "Tolerance: +/- 0.001 in on the bearing journal"
+      },
+      "quantity": {
+        "value": "250",
+        "evidence": "Quantity: 250"
+      },
+      "finish": {
+        "value": "zinc plate",
+        "evidence": "Surface finish: same as last time (zinc plate)"
+      },
+      "certs": {
+        "value": "full material cert and CoC",
+        "evidence": "Certification: full material cert and CoC"
+      },
+      "delivery_date": {
+        "value": "2026-04-17",
+        "evidence": "Need by: 4/17/2026"
+      },
+      "units": {
+        "value": "in",
+        "evidence": "Stock size: 1.25 in OD x 1.5 in long"
+      }
+    },
+    "RFQ-026": {
+      "material_grade": {
+        "value": "316 stainless",
+        "evidence": "316 stainless"
+      },
+      "dimensions": {
+        "value": "0.5 in OD x 4 in long",
+        "evidence": "0.5 in OD x 4 in long"
+      },
+      "tolerance": {
+        "value": "+/- 0.005 in",
+        "evidence": "tolerances should be +/- 0.005 in on all diameters"
+      },
+      "quantity": {
+        "value": "100",
+        "evidence": "I need 100 of them"
+      },
+      "finish": {
+        "value": null,
+        "evidence": null
+      },
+      "certs": {
+        "value": null,
+        "evidence": null
+      },
+      "delivery_date": {
+        "value": "2026-04-22",
+        "evidence": "Delivery by Wednesday, April 22 would be great"
+      },
+      "units": {
+        "value": "in",
+        "evidence": "0.5 in OD x 4 in long"
+      }
+    },
+    "RFQ-027": {
+      "material_grade": {
+        "value": "6061-T6",
+        "evidence": "Alloy: 6061-T6"
+      },
+      "dimensions": {
+        "value": "1 in OD x 0.188 in wall x 20 ft",
+        "evidence": "Stock size: 1 in OD x 0.188 in wall x 20 ft"
+      },
+      "tolerance": {
+        "value": "cut length \u00b1 1/16 in",
+        "evidence": "Tolerance: cut length \u00b1 1/16 in"
+      },
+      "quantity": {
+        "value": "20",
+        "evidence": "Pieces: 20"
+      },
+      "finish": {
+        "value": "mill finish",
+        "evidence": "Surface: mill finish"
+      },
+      "certs": {
+        "value": "EN 10204 3.1 cert with each heat",
+        "evidence": "Certification: EN 10204 3.1 cert with each heat"
+      },
+      "delivery_date": {
+        "value": "2026-04-08",
+        "evidence": "Delivery: April 8"
+      },
+      "units": {
+        "value": "in",
+        "evidence": "Stock size: 1 in OD x 0.188 in wall x 20 ft"
+      }
+    },
+    "RFQ-028": {
+      "material_grade": {
+        "value": "316 stainless",
+        "evidence": "Grade: 316 stainless"
+      },
+      "dimensions": {
+        "value": "0.5 in OD x 1.5 in long",
+        "evidence": "Dimensions: 0.5 in OD x 1.5 in long"
+      },
+      "tolerance": {
+        "value": "+/- 0.002 in on OD",
+        "evidence": "Tolerance: +/- 0.002 in on OD"
+      },
+      "quantity": {
+        "value": "50",
+        "evidence": "Quantity: 50"
+      },
+      "finish": {
+        "value": "passivate per ASTM A967",
+        "evidence": "Surface: passivate per ASTM A967"
+      },
+      "certs": {
+        "value": "RoHS cert plus CoC",
+        "evidence": "Paperwork: RoHS cert plus CoC"
+      },
+      "delivery_date": {
+        "value": "2026-03-17",
+        "evidence": "Delivery: 2026-03-17"
+      },
+      "units": {
+        "value": "in",
+        "evidence": "Dimensions: 0.5 in OD x 1.5 in long"
+      }
+    },
+    "RFQ-029": {
+      "material_grade": {
+        "value": null,
+        "evidence": null
+      },
+      "dimensions": {
+        "value": "0.75 in x 1.5 in x 20 ft",
+        "evidence": "Dimensions: 0.75 in x 1.5 in x 20 ft"
+      },
+      "tolerance": {
+        "value": "mill standard tolerance",
+        "evidence": "Tolerance: mill standard tolerance"
+      },
+      "quantity": {
+        "value": "60",
+        "evidence": "Pieces: 60"
+      },
+      "finish": {
+        "value": null,
+        "evidence": null
+      },
+      "certs": {
+        "value": "EN 10204 3.1 cert with each heat",
+        "evidence": "Certification: EN 10204 3.1 cert with each heat"
+      },
+      "delivery_date": {
+        "value": "2026-03-20",
+        "evidence": "Required date: March 20"
+      },
+      "units": {
+        "value": "in",
+        "evidence": "Dimensions: 0.75 in x 1.5 in x 20 ft"
+      }
+    },
+    "RFQ-030": {
+      "material_grade": {
+        "value": "4140 pre-hard",
+        "evidence": "Alloy: 4140 pre-hard"
+      },
+      "dimensions": {
+        "value": "1 in OD x 6 in long",
+        "evidence": "Stock size: 1 in OD x 6 in long"
+      },
+      "tolerance": {
+        "value": "+/- 0.002 in on OD",
+        "evidence": "Tolerance: +/- 0.002 in on OD"
+      },
+      "quantity": {
+        "value": "250",
+        "evidence": "Pieces: 250"
+      },
+      "finish": {
+        "value": "as machined",
+        "evidence": "Finish: as machined"
+      },
+      "certs": {
+        "value": "none",
+        "evidence": "Certs: no certs needed"
+      },
+      "delivery_date": {
+        "value": "2026-03-28",
+        "evidence": "Delivery: 2026-03-28"
+      },
+      "units": {
+        "value": "in",
+        "evidence": "Stock size: 1 in OD x 6 in long"
+      }
+    }
+  }
+}

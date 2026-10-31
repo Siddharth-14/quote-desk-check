@@ -1,0 +1,722 @@
+[
+  {
+    "job_id": "JOB-001",
+    "family": "service_center",
+    "summary": "service center: 304/304L round bar 0.75 in dia x 10 ft, qty 40, tolerance thickness per ASTM A6, length +/- 1/8 in, finish centerless ground, certs no certs needed",
+    "qty": 40,
+    "unit_price": 42.64,
+    "total_price": 1705.53,
+    "lead_days": 8
+  },
+  {
+    "job_id": "JOB-002",
+    "family": "machine_shop",
+    "summary": "machine shop: 303 stainless turned 2 in OD x 3.5 in long, qty 50, tolerance +/- 0.002 in on OD, finish passivate per ASTM A967, certs full material cert and CoC",
+    "qty": 50,
+    "unit_price": 183.86,
+    "total_price": 9193.11,
+    "lead_days": 5
+  },
+  {
+    "job_id": "JOB-003",
+    "family": "service_center",
+    "summary": "service center: 6061-T651 plate 0.375 in x 36 in x 48 in, qty 12, tolerance +/- 0.03 in on length, finish mill finish, certs EN 10204 3.1 cert with each heat",
+    "qty": 12,
+    "unit_price": 225.46,
+    "total_price": 2705.56,
+    "lead_days": 5
+  },
+  {
+    "job_id": "JOB-004",
+    "family": "machine_shop",
+    "summary": "machine shop: 1215 steel turned 0.375 in OD x 2 in long, qty 250, tolerance +/- 0.002 in on OD, finish as machined, certs no certs needed",
+    "qty": 250,
+    "unit_price": 1.09,
+    "total_price": 271.93,
+    "lead_days": 21
+  },
+  {
+    "job_id": "JOB-005",
+    "family": "service_center",
+    "summary": "service center: 4140 annealed round bar 2 in dia x 12 ft, qty 25, tolerance +/- 0.03 in on length, finish turned and polished, certs certified MTRs please",
+    "qty": 25,
+    "unit_price": 137.08,
+    "total_price": 3426.91,
+    "lead_days": 15
+  },
+  {
+    "job_id": "JOB-006",
+    "family": "machine_shop",
+    "summary": "machine shop: 7075-T6 turned 0.75 in OD x 1.5 in long, qty 100, tolerance +/- 0.002 in on OD, finish as machined, certs full material cert and CoC",
+    "qty": 100,
+    "unit_price": 6.02,
+    "total_price": 602.26,
+    "lead_days": 5
+  },
+  {
+    "job_id": "JOB-007",
+    "family": "service_center",
+    "summary": "service center: A36 flat 0.5 in x 3 in x 20 ft, qty 60, tolerance thickness per ASTM A6, length +/- 1/8 in, finish hot rolled, certs EN 10204 3.1 cert with each heat",
+    "qty": 60,
+    "unit_price": 90.95,
+    "total_price": 5456.93,
+    "lead_days": 8
+  },
+  {
+    "job_id": "JOB-008",
+    "family": "machine_shop",
+    "summary": "machine shop: 7075-T6 turned 1 in OD x 4 in long, qty 50, tolerance +/- 0.001 in on the bearing journal, finish as machined, certs RoHS cert plus CoC",
+    "qty": 50,
+    "unit_price": 24.16,
+    "total_price": 1208.1,
+    "lead_days": 28
+  },
+  {
+    "job_id": "JOB-009",
+    "family": "service_center",
+    "summary": "service center: 304/304L round bar 0.5 in dia x 12 ft, qty 12, tolerance cut length +/- 1/16 in, finish centerless ground, certs MTR required",
+    "qty": 12,
+    "unit_price": 28.34,
+    "total_price": 340.11,
+    "lead_days": 5
+  },
+  {
+    "job_id": "JOB-010",
+    "family": "machine_shop",
+    "summary": "machine shop: 17-4 PH turned 1.25 in OD x 6 in long, qty 1000, tolerance +/- 0.002 in on OD, finish as machined, certs no certs needed",
+    "qty": 1000,
+    "unit_price": 162.76,
+    "total_price": 162761.13,
+    "lead_days": 15
+  },
+  {
+    "job_id": "JOB-011",
+    "family": "service_center",
+    "summary": "service center: 304/304L round bar 1 in dia x 10 ft, qty 40, tolerance +/- 0.03 in on length, finish centerless ground, certs MTR required",
+    "qty": 40,
+    "unit_price": 62.82,
+    "total_price": 2512.74,
+    "lead_days": 28
+  },
+  {
+    "job_id": "JOB-012",
+    "family": "machine_shop",
+    "summary": "machine shop: 7075-T6 turned 2 in OD x 4 in long, qty 150, tolerance +/- 0.002 in on OD, finish as machined, certs no certs needed",
+    "qty": 150,
+    "unit_price": 107.52,
+    "total_price": 16127.88,
+    "lead_days": 5
+  },
+  {
+    "job_id": "JOB-013",
+    "family": "service_center",
+    "summary": "service center: A36 flat 0.25 in x 1 in x 20 ft, qty 10, tolerance cut length +/- 1/16 in, finish hot rolled, certs MTR required",
+    "qty": 10,
+    "unit_price": 15.95,
+    "total_price": 159.51,
+    "lead_days": 8
+  },
+  {
+    "job_id": "JOB-014",
+    "family": "machine_shop",
+    "summary": "machine shop: 1215 steel turned 0.75 in OD x 1.5 in long, qty 25, tolerance +/- 0.010 in general, finish as machined, certs RoHS cert plus CoC",
+    "qty": 25,
+    "unit_price": 2.94,
+    "total_price": 73.47,
+    "lead_days": 15
+  },
+  {
+    "job_id": "JOB-015",
+    "family": "service_center",
+    "summary": "service center: 6061-T6 tube 1 in OD x 0.188 in wall x 20 ft, qty 12, tolerance mill standard tolerance, finish mill finish, certs no certs needed",
+    "qty": 12,
+    "unit_price": 29.56,
+    "total_price": 354.68,
+    "lead_days": 35
+  },
+  {
+    "job_id": "JOB-016",
+    "family": "machine_shop",
+    "summary": "machine shop: 4140 pre-hard turned 0.5 in OD x 6 in long, qty 50, tolerance +/- 0.005 in on all diameters, finish as machined, certs CoC and material cert",
+    "qty": 50,
+    "unit_price": 7.01,
+    "total_price": 350.51,
+    "lead_days": 12
+  },
+  {
+    "job_id": "JOB-017",
+    "family": "service_center",
+    "summary": "service center: A36 plate 0.75 in x 24 in x 96 in, qty 12, tolerance thickness per ASTM A6, length +/- 1/8 in, finish hot rolled, certs EN 10204 3.1 cert with each heat",
+    "qty": 12,
+    "unit_price": 461.7,
+    "total_price": 5540.45,
+    "lead_days": 35
+  },
+  {
+    "job_id": "JOB-018",
+    "family": "machine_shop",
+    "summary": "machine shop: 7075-T6 turned 1 in OD x 1.5 in long, qty 25, tolerance +/- 0.001 in on the bearing journal, finish clear anodize Type II, certs CoC and material cert",
+    "qty": 25,
+    "unit_price": 10.69,
+    "total_price": 267.22,
+    "lead_days": 12
+  },
+  {
+    "job_id": "JOB-019",
+    "family": "service_center",
+    "summary": "service center: A36 flat 0.25 in x 2 in x 20 ft, qty 40, tolerance thickness per ASTM A6, length +/- 1/8 in, finish hot rolled, certs EN 10204 3.1 cert with each heat",
+    "qty": 40,
+    "unit_price": 27.2,
+    "total_price": 1087.95,
+    "lead_days": 35
+  },
+  {
+    "job_id": "JOB-020",
+    "family": "machine_shop",
+    "summary": "machine shop: 7075-T6 turned 0.375 in OD x 2 in long, qty 250, tolerance +/- 0.001 in on the bearing journal, finish clear anodize Type II, certs full material cert and CoC",
+    "qty": 250,
+    "unit_price": 1.6,
+    "total_price": 400.2,
+    "lead_days": 35
+  },
+  {
+    "job_id": "JOB-021",
+    "family": "service_center",
+    "summary": "service center: 6061-T651 plate 0.5 in x 48 in x 120 in, qty 12, tolerance +/- 0.03 in on length, finish mill finish, certs no certs needed",
+    "qty": 12,
+    "unit_price": 898.24,
+    "total_price": 10778.92,
+    "lead_days": 5
+  },
+  {
+    "job_id": "JOB-022",
+    "family": "machine_shop",
+    "summary": "machine shop: 6061-T6 turned 2 in OD x 1.5 in long, qty 500, tolerance +/- 0.010 in general, finish clear anodize Type II, certs no certs needed",
+    "qty": 500,
+    "unit_price": 13.58,
+    "total_price": 6791.46,
+    "lead_days": 28
+  },
+  {
+    "job_id": "JOB-023",
+    "family": "service_center",
+    "summary": "service center: 304 stainless plate 0.75 in x 48 in x 120 in, qty 25, tolerance +/- 0.03 in on length, finish No.1 hot rolled annealed, certs MTR required",
+    "qty": 25,
+    "unit_price": 3559.49,
+    "total_price": 88987.36,
+    "lead_days": 8
+  },
+  {
+    "job_id": "JOB-024",
+    "family": "machine_shop",
+    "summary": "machine shop: 6061-T6 turned 0.5 in OD x 1.5 in long, qty 100, tolerance +/- 0.005 in on all diameters, finish clear anodize Type II, certs full material cert and CoC",
+    "qty": 100,
+    "unit_price": 1.03,
+    "total_price": 102.56,
+    "lead_days": 15
+  },
+  {
+    "job_id": "JOB-025",
+    "family": "service_center",
+    "summary": "service center: 6061-T6 flat 0.75 in x 4 in x 20 ft, qty 4, tolerance mill standard tolerance, finish mill finish, certs certified MTRs please",
+    "qty": 4,
+    "unit_price": 220.88,
+    "total_price": 883.5,
+    "lead_days": 5
+  },
+  {
+    "job_id": "JOB-026",
+    "family": "machine_shop",
+    "summary": "machine shop: 4140 pre-hard turned 1 in OD x 1.5 in long, qty 100, tolerance +/- 0.010 in general, finish black oxide, certs no certs needed",
+    "qty": 100,
+    "unit_price": 5.12,
+    "total_price": 511.51,
+    "lead_days": 28
+  },
+  {
+    "job_id": "JOB-027",
+    "family": "service_center",
+    "summary": "service center: 1018 CF round bar 1.5 in dia x 10 ft, qty 20, tolerance +/- 0.03 in on length, finish cold drawn, certs certified MTRs please",
+    "qty": 20,
+    "unit_price": 60.74,
+    "total_price": 1214.87,
+    "lead_days": 21
+  },
+  {
+    "job_id": "JOB-028",
+    "family": "machine_shop",
+    "summary": "machine shop: 7075-T6 turned 0.375 in OD x 2 in long, qty 500, tolerance +/- 0.005 in on all diameters, finish as machined, certs no certs needed",
+    "qty": 500,
+    "unit_price": 1.27,
+    "total_price": 636.07,
+    "lead_days": 8
+  },
+  {
+    "job_id": "JOB-029",
+    "family": "service_center",
+    "summary": "service center: C360 brass round bar 0.5 in dia x 12 ft, qty 25, tolerance thickness per ASTM A6, length +/- 1/8 in, finish cold drawn, certs certified MTRs please",
+    "qty": 25,
+    "unit_price": 28.45,
+    "total_price": 711.24,
+    "lead_days": 35
+  },
+  {
+    "job_id": "JOB-030",
+    "family": "machine_shop",
+    "summary": "machine shop: 316 stainless turned 1.5 in OD x 6 in long, qty 250, tolerance +/- 0.010 in general, finish electropolish, certs no certs needed",
+    "qty": 250,
+    "unit_price": 188.95,
+    "total_price": 47238.65,
+    "lead_days": 5
+  },
+  {
+    "job_id": "JOB-031",
+    "family": "service_center",
+    "summary": "service center: A36 plate 0.5 in x 12 in x 120 in, qty 6, tolerance thickness per ASTM A6, length +/- 1/8 in, finish hot rolled, pickled and oiled, certs EN 10204 3.1 cert with each heat",
+    "qty": 6,
+    "unit_price": 173.54,
+    "total_price": 1041.25,
+    "lead_days": 21
+  },
+  {
+    "job_id": "JOB-032",
+    "family": "machine_shop",
+    "summary": "machine shop: 4140 pre-hard turned 0.375 in OD x 1 in long, qty 100, tolerance +/- 0.002 in on OD, finish as machined, certs no certs needed",
+    "qty": 100,
+    "unit_price": 0.84,
+    "total_price": 83.85,
+    "lead_days": 5
+  },
+  {
+    "job_id": "JOB-033",
+    "family": "service_center",
+    "summary": "service center: 304 stainless plate 1 in x 48 in x 96 in, qty 4, tolerance cut length +/- 1/16 in, finish No.1 hot rolled annealed, certs EN 10204 3.1 cert with each heat",
+    "qty": 4,
+    "unit_price": 3337.3,
+    "total_price": 13349.21,
+    "lead_days": 15
+  },
+  {
+    "job_id": "JOB-034",
+    "family": "machine_shop",
+    "summary": "machine shop: 7075-T6 turned 2 in OD x 2 in long, qty 100, tolerance +/- 0.001 in on the bearing journal, finish clear anodize Type II, certs CoC and material cert",
+    "qty": 100,
+    "unit_price": 51.59,
+    "total_price": 5159.34,
+    "lead_days": 21
+  },
+  {
+    "job_id": "JOB-035",
+    "family": "service_center",
+    "summary": "service center: 7075-T651 plate 0.75 in x 24 in x 48 in, qty 12, tolerance mill standard tolerance, finish mill finish, certs no certs needed",
+    "qty": 12,
+    "unit_price": 446.89,
+    "total_price": 5362.63,
+    "lead_days": 5
+  },
+  {
+    "job_id": "JOB-036",
+    "family": "machine_shop",
+    "summary": "machine shop: 6061-T6 turned 0.5 in OD x 3.5 in long, qty 500, tolerance +/- 0.001 in on the bearing journal, finish black anodize Type II, certs RoHS cert plus CoC",
+    "qty": 500,
+    "unit_price": 3.4,
+    "total_price": 1702.1,
+    "lead_days": 21
+  },
+  {
+    "job_id": "JOB-037",
+    "family": "service_center",
+    "summary": "service center: 304 stainless plate 0.375 in x 12 in x 96 in, qty 60, tolerance cut length +/- 1/16 in, finish No.1 hot rolled annealed, certs MTR required",
+    "qty": 60,
+    "unit_price": 300.91,
+    "total_price": 18054.6,
+    "lead_days": 21
+  },
+  {
+    "job_id": "JOB-038",
+    "family": "machine_shop",
+    "summary": "machine shop: 1215 steel turned 1.25 in OD x 1 in long, qty 50, tolerance +/- 0.001 in on the bearing journal, finish as machined, certs no certs needed",
+    "qty": 50,
+    "unit_price": 8.12,
+    "total_price": 406.25,
+    "lead_days": 35
+  },
+  {
+    "job_id": "JOB-039",
+    "family": "service_center",
+    "summary": "service center: 1018 CF round bar 2 in dia x 12 ft, qty 60, tolerance +/- 0.03 in on length, finish cold drawn, certs MTR required",
+    "qty": 60,
+    "unit_price": 140.56,
+    "total_price": 8433.57,
+    "lead_days": 12
+  },
+  {
+    "job_id": "JOB-040",
+    "family": "machine_shop",
+    "summary": "machine shop: 7075-T6 turned 2 in OD x 2 in long, qty 150, tolerance +/- 0.001 in on the bearing journal, finish as machined, certs CoC and material cert",
+    "qty": 150,
+    "unit_price": 52.26,
+    "total_price": 7838.99,
+    "lead_days": 28
+  },
+  {
+    "job_id": "JOB-041",
+    "family": "service_center",
+    "summary": "service center: 304 stainless plate 0.375 in x 48 in x 96 in, qty 4, tolerance mill standard tolerance, finish No.1 hot rolled annealed, certs no certs needed",
+    "qty": 4,
+    "unit_price": 1439.29,
+    "total_price": 5757.14,
+    "lead_days": 8
+  },
+  {
+    "job_id": "JOB-042",
+    "family": "machine_shop",
+    "summary": "machine shop: 7075-T6 turned 2 in OD x 1.5 in long, qty 100, tolerance +/- 0.001 in on the bearing journal, finish as machined, certs full material cert and CoC",
+    "qty": 100,
+    "unit_price": 48.34,
+    "total_price": 4834.34,
+    "lead_days": 5
+  },
+  {
+    "job_id": "JOB-043",
+    "family": "service_center",
+    "summary": "service center: 304 stainless plate 0.5 in x 12 in x 96 in, qty 40, tolerance thickness per ASTM A6, length +/- 1/8 in, finish mill finish, certs no certs needed",
+    "qty": 40,
+    "unit_price": 499.63,
+    "total_price": 19985.35,
+    "lead_days": 12
+  },
+  {
+    "job_id": "JOB-044",
+    "family": "machine_shop",
+    "summary": "machine shop: 7075-T6 turned 2 in OD x 1.5 in long, qty 1000, tolerance +/- 0.001 in on the bearing journal, finish clear anodize Type II, certs CoC and material cert",
+    "qty": 1000,
+    "unit_price": 35.55,
+    "total_price": 35550.42,
+    "lead_days": 15
+  },
+  {
+    "job_id": "JOB-045",
+    "family": "service_center",
+    "summary": "service center: A36 plate 0.25 in x 12 in x 96 in, qty 25, tolerance +/- 0.03 in on length, finish hot rolled, certs EN 10204 3.1 cert with each heat",
+    "qty": 25,
+    "unit_price": 75.48,
+    "total_price": 1887.06,
+    "lead_days": 35
+  },
+  {
+    "job_id": "JOB-046",
+    "family": "machine_shop",
+    "summary": "machine shop: 316 stainless turned 0.5 in OD x 1 in long, qty 100, tolerance +/- 0.002 in on OD, finish electropolish, certs full material cert and CoC",
+    "qty": 100,
+    "unit_price": 3.15,
+    "total_price": 315.21,
+    "lead_days": 21
+  },
+  {
+    "job_id": "JOB-047",
+    "family": "service_center",
+    "summary": "service center: 316L tube 1 in OD x 0.188 in wall x 20 ft, qty 12, tolerance thickness per ASTM A6, length +/- 1/8 in, finish pickled, certs certified MTRs please",
+    "qty": 12,
+    "unit_price": 106.27,
+    "total_price": 1275.21,
+    "lead_days": 28
+  },
+  {
+    "job_id": "JOB-048",
+    "family": "machine_shop",
+    "summary": "machine shop: 1215 steel turned 0.75 in OD x 2 in long, qty 500, tolerance +/- 0.010 in general, finish zinc plate, certs CoC and material cert",
+    "qty": 500,
+    "unit_price": 3.44,
+    "total_price": 1720.57,
+    "lead_days": 12
+  },
+  {
+    "job_id": "JOB-049",
+    "family": "service_center",
+    "summary": "service center: 4140 annealed round bar 1.25 in dia x 10 ft, qty 4, tolerance mill standard tolerance, finish turned and polished, certs MTR required",
+    "qty": 4,
+    "unit_price": 59.92,
+    "total_price": 239.69,
+    "lead_days": 8
+  },
+  {
+    "job_id": "JOB-050",
+    "family": "machine_shop",
+    "summary": "machine shop: 6061-T6 turned 1.5 in OD x 3.5 in long, qty 25, tolerance +/- 0.010 in general, finish as machined, certs full material cert and CoC",
+    "qty": 25,
+    "unit_price": 19.28,
+    "total_price": 481.9,
+    "lead_days": 28
+  },
+  {
+    "job_id": "JOB-051",
+    "family": "service_center",
+    "summary": "service center: 6061-T651 plate 1 in x 12 in x 120 in, qty 10, tolerance thickness per ASTM A6, length +/- 1/8 in, finish mill finish, certs MTR required",
+    "qty": 10,
+    "unit_price": 471.21,
+    "total_price": 4712.08,
+    "lead_days": 5
+  },
+  {
+    "job_id": "JOB-052",
+    "family": "machine_shop",
+    "summary": "machine shop: 17-4 PH turned 0.375 in OD x 6 in long, qty 150, tolerance +/- 0.005 in on all diameters, finish as machined, certs no certs needed",
+    "qty": 150,
+    "unit_price": 15.14,
+    "total_price": 2271.47,
+    "lead_days": 5
+  },
+  {
+    "job_id": "JOB-053",
+    "family": "service_center",
+    "summary": "service center: 6061-T651 plate 0.5 in x 48 in x 96 in, qty 40, tolerance thickness per ASTM A6, length +/- 1/8 in, finish mill finish, certs MTR required",
+    "qty": 40,
+    "unit_price": 636.69,
+    "total_price": 25467.78,
+    "lead_days": 12
+  },
+  {
+    "job_id": "JOB-054",
+    "family": "machine_shop",
+    "summary": "machine shop: 303 stainless turned 1.25 in OD x 1 in long, qty 25, tolerance +/- 0.005 in on all diameters, finish passivate per ASTM A967, certs CoC and material cert",
+    "qty": 25,
+    "unit_price": 15.02,
+    "total_price": 375.43,
+    "lead_days": 12
+  },
+  {
+    "job_id": "JOB-055",
+    "family": "service_center",
+    "summary": "service center: 7075-T651 plate 0.25 in x 48 in x 96 in, qty 12, tolerance +/- 0.03 in on length, finish mill finish, certs MTR required",
+    "qty": 12,
+    "unit_price": 476.99,
+    "total_price": 5723.88,
+    "lead_days": 28
+  },
+  {
+    "job_id": "JOB-056",
+    "family": "machine_shop",
+    "summary": "machine shop: 17-4 PH turned 0.75 in OD x 3.5 in long, qty 250, tolerance +/- 0.005 in on all diameters, finish as machined, certs RoHS cert plus CoC",
+    "qty": 250,
+    "unit_price": 39.41,
+    "total_price": 9851.32,
+    "lead_days": 5
+  },
+  {
+    "job_id": "JOB-057",
+    "family": "service_center",
+    "summary": "service center: 7075-T651 plate 0.375 in x 36 in x 120 in, qty 25, tolerance thickness per ASTM A6, length +/- 1/8 in, finish mill finish, certs EN 10204 3.1 cert with each heat",
+    "qty": 25,
+    "unit_price": 770.54,
+    "total_price": 19263.38,
+    "lead_days": 5
+  },
+  {
+    "job_id": "JOB-058",
+    "family": "machine_shop",
+    "summary": "machine shop: 316 stainless turned 0.375 in OD x 1 in long, qty 100, tolerance +/- 0.002 in on OD, finish passivate per ASTM A967, certs no certs needed",
+    "qty": 100,
+    "unit_price": 1.81,
+    "total_price": 181.5,
+    "lead_days": 15
+  },
+  {
+    "job_id": "JOB-059",
+    "family": "service_center",
+    "summary": "service center: 1018 CF round bar 2 in dia x 10 ft, qty 60, tolerance +/- 0.03 in on length, finish cold drawn, certs MTR required",
+    "qty": 60,
+    "unit_price": 120.73,
+    "total_price": 7243.66,
+    "lead_days": 12
+  },
+  {
+    "job_id": "JOB-060",
+    "family": "machine_shop",
+    "summary": "machine shop: 7075-T6 turned 0.75 in OD x 6 in long, qty 100, tolerance +/- 0.005 in on all diameters, finish as machined, certs RoHS cert plus CoC",
+    "qty": 100,
+    "unit_price": 15.01,
+    "total_price": 1501.44,
+    "lead_days": 28
+  },
+  {
+    "job_id": "JOB-061",
+    "family": "service_center",
+    "summary": "service center: C360 brass round bar 2 in dia x 10 ft, qty 60, tolerance mill standard tolerance, finish cold drawn, certs no certs needed",
+    "qty": 60,
+    "unit_price": 370.81,
+    "total_price": 22248.44,
+    "lead_days": 15
+  },
+  {
+    "job_id": "JOB-062",
+    "family": "machine_shop",
+    "summary": "machine shop: 316 stainless turned 2 in OD x 3.5 in long, qty 25, tolerance +/- 0.005 in on all diameters, finish passivate per ASTM A967, certs CoC and material cert",
+    "qty": 25,
+    "unit_price": 164.64,
+    "total_price": 4115.97,
+    "lead_days": 35
+  },
+  {
+    "job_id": "JOB-063",
+    "family": "service_center",
+    "summary": "service center: 316L tube 1 in OD x 0.188 in wall x 20 ft, qty 4, tolerance mill standard tolerance, finish pickled, certs MTR required",
+    "qty": 4,
+    "unit_price": 121.93,
+    "total_price": 487.71,
+    "lead_days": 8
+  },
+  {
+    "job_id": "JOB-064",
+    "family": "machine_shop",
+    "summary": "machine shop: 7075-T6 turned 0.75 in OD x 1 in long, qty 100, tolerance +/- 0.002 in on OD, finish as machined, certs RoHS cert plus CoC",
+    "qty": 100,
+    "unit_price": 3.19,
+    "total_price": 318.52,
+    "lead_days": 12
+  },
+  {
+    "job_id": "JOB-065",
+    "family": "service_center",
+    "summary": "service center: C360 brass round bar 3 in dia x 10 ft, qty 4, tolerance mill standard tolerance, finish cold drawn, certs MTR required",
+    "qty": 4,
+    "unit_price": 1117.74,
+    "total_price": 4470.95,
+    "lead_days": 12
+  },
+  {
+    "job_id": "JOB-066",
+    "family": "machine_shop",
+    "summary": "machine shop: 4140 pre-hard turned 1.25 in OD x 6 in long, qty 100, tolerance +/- 0.010 in general, finish zinc plate, certs CoC and material cert",
+    "qty": 100,
+    "unit_price": 33.43,
+    "total_price": 3342.59,
+    "lead_days": 15
+  },
+  {
+    "job_id": "JOB-067",
+    "family": "service_center",
+    "summary": "service center: 4140 annealed round bar 2 in dia x 10 ft, qty 25, tolerance +/- 0.03 in on length, finish turned and polished, certs no certs needed",
+    "qty": 25,
+    "unit_price": 113.99,
+    "total_price": 2849.82,
+    "lead_days": 21
+  },
+  {
+    "job_id": "JOB-068",
+    "family": "machine_shop",
+    "summary": "machine shop: 1215 steel turned 1 in OD x 3.5 in long, qty 150, tolerance +/- 0.001 in on the bearing journal, finish as machined, certs no certs needed",
+    "qty": 150,
+    "unit_price": 17.34,
+    "total_price": 2600.83,
+    "lead_days": 28
+  },
+  {
+    "job_id": "JOB-069",
+    "family": "service_center",
+    "summary": "service center: A36 plate 1 in x 12 in x 120 in, qty 6, tolerance +/- 0.03 in on length, finish hot rolled, certs certified MTRs please",
+    "qty": 6,
+    "unit_price": 484.32,
+    "total_price": 2905.92,
+    "lead_days": 5
+  },
+  {
+    "job_id": "JOB-070",
+    "family": "machine_shop",
+    "summary": "machine shop: 303 stainless turned 1 in OD x 1 in long, qty 25, tolerance +/- 0.002 in on OD, finish as machined, certs RoHS cert plus CoC",
+    "qty": 25,
+    "unit_price": 13.34,
+    "total_price": 333.6,
+    "lead_days": 5
+  },
+  {
+    "job_id": "JOB-071",
+    "family": "service_center",
+    "summary": "service center: 1018 CF round bar 1.25 in dia x 10 ft, qty 12, tolerance thickness per ASTM A6, length +/- 1/8 in, finish cold drawn, certs MTR required",
+    "qty": 12,
+    "unit_price": 50.25,
+    "total_price": 603.06,
+    "lead_days": 12
+  },
+  {
+    "job_id": "JOB-072",
+    "family": "machine_shop",
+    "summary": "machine shop: 7075-T6 turned 0.75 in OD x 2 in long, qty 150, tolerance +/- 0.010 in general, finish clear anodize Type II, certs RoHS cert plus CoC",
+    "qty": 150,
+    "unit_price": 5.12,
+    "total_price": 767.48,
+    "lead_days": 8
+  },
+  {
+    "job_id": "JOB-073",
+    "family": "service_center",
+    "summary": "service center: A36 plate 0.75 in x 48 in x 48 in, qty 60, tolerance +/- 0.03 in on length, finish hot rolled, pickled and oiled, certs MTR required",
+    "qty": 60,
+    "unit_price": 400.38,
+    "total_price": 24022.61,
+    "lead_days": 21
+  },
+  {
+    "job_id": "JOB-074",
+    "family": "machine_shop",
+    "summary": "machine shop: 303 stainless turned 0.5 in OD x 1.5 in long, qty 50, tolerance +/- 0.010 in general, finish as machined, certs CoC and material cert",
+    "qty": 50,
+    "unit_price": 3.69,
+    "total_price": 184.73,
+    "lead_days": 8
+  },
+  {
+    "job_id": "JOB-075",
+    "family": "service_center",
+    "summary": "service center: 304 stainless plate 0.5 in x 36 in x 96 in, qty 12, tolerance +/- 0.03 in on length, finish No.1 hot rolled annealed, certs MTR required",
+    "qty": 12,
+    "unit_price": 1455.3,
+    "total_price": 17463.56,
+    "lead_days": 8
+  },
+  {
+    "job_id": "JOB-076",
+    "family": "machine_shop",
+    "summary": "machine shop: 316 stainless turned 2 in OD x 6 in long, qty 25, tolerance +/- 0.001 in on the bearing journal, finish passivate per ASTM A967, certs no certs needed",
+    "qty": 25,
+    "unit_price": 525.72,
+    "total_price": 13143.09,
+    "lead_days": 5
+  },
+  {
+    "job_id": "JOB-077",
+    "family": "service_center",
+    "summary": "service center: A36 plate 0.25 in x 24 in x 96 in, qty 6, tolerance mill standard tolerance, finish hot rolled, certs MTR required",
+    "qty": 6,
+    "unit_price": 151.91,
+    "total_price": 911.45,
+    "lead_days": 21
+  },
+  {
+    "job_id": "JOB-078",
+    "family": "machine_shop",
+    "summary": "machine shop: 303 stainless turned 0.375 in OD x 1.5 in long, qty 250, tolerance +/- 0.001 in on the bearing journal, finish as machined, certs CoC and material cert",
+    "qty": 250,
+    "unit_price": 2.37,
+    "total_price": 592.28,
+    "lead_days": 21
+  },
+  {
+    "job_id": "JOB-079",
+    "family": "service_center",
+    "summary": "service center: 304/304L round bar 3 in dia x 10 ft, qty 20, tolerance thickness per ASTM A6, length +/- 1/8 in, finish cold finished, certs no certs needed",
+    "qty": 20,
+    "unit_price": 673.18,
+    "total_price": 13463.64,
+    "lead_days": 12
+  },
+  {
+    "job_id": "JOB-080",
+    "family": "machine_shop",
+    "summary": "machine shop: 4140 pre-hard turned 0.75 in OD x 6 in long, qty 1000, tolerance +/- 0.010 in general, finish black oxide, certs no certs needed",
+    "qty": 1000,
+    "unit_price": 10.45,
+    "total_price": 10446.93,
+    "lead_days": 15
+  }
+]
