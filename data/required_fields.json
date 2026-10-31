@@ -1,0 +1,39 @@
+{
+  "_comment": "Required-field table. The deterministic checker (pipeline/checker.py) reads this file; the model never decides readiness. All 8 fields are required for both families.",
+  "fields": ["material_grade", "dimensions", "tolerance", "quantity", "finish", "certs", "delivery_date", "units"],
+  "policy": {
+    "stated_none_counts_as_present": "An explicit answer such as 'no certs needed' or 'mill standard tolerance' is a stated value, not a gap.",
+    "reference_to_prior_order": "'Same as last time' or 'same as PO 4471' does not state the value in this email. The field is MISSING.",
+    "attachment_only": "Attachment contents are not visible to the desk. A spec that appears only in an attachment filename, or 'see attached', is MISSING.",
+    "units": "Dimensions given as bare numbers with no unit anywhere in the email leave `units` MISSING (dimensions themselves are present).",
+    "delivery_date": "'ASAP' or 'soon' is not a date. A calendar date or an 'N days/weeks' window is a date."
+  },
+  "families": {
+    "service_center": {
+      "label": "Service center (bar / plate / tube)",
+      "fields": {
+        "material_grade": {"label": "Material grade", "ask": "the material and grade (e.g. A36, 304/304L, 6061-T6)"},
+        "dimensions":     {"label": "Dimensions", "ask": "the size and length (thickness x width x length, OD x wall x length, or diameter x length)"},
+        "tolerance":      {"label": "Tolerance", "ask": "the cut-length and thickness tolerance, or confirmation that mill standard is fine"},
+        "quantity":       {"label": "Quantity", "ask": "the piece count"},
+        "finish":         {"label": "Finish / surface", "ask": "the surface condition (hot rolled, pickled and oiled, cold drawn, ground...)"},
+        "certs":          {"label": "Certifications", "ask": "which certs you need (MTR, EN 10204 3.1, none)"},
+        "delivery_date":  {"label": "Delivery date", "ask": "the date you need it by"},
+        "units":          {"label": "Units", "ask": "whether the dimensions are inches or millimetres"}
+      }
+    },
+    "machine_shop": {
+      "label": "Machine shop (turned parts)",
+      "fields": {
+        "material_grade": {"label": "Material grade", "ask": "the material and grade (e.g. 303 SS, 4140, 6061-T6)"},
+        "dimensions":     {"label": "Dimensions", "ask": "the part size (OD x length, plus any critical features)"},
+        "tolerance":      {"label": "Tolerance", "ask": "the tolerance on critical diameters and lengths (e.g. +/-0.002)"},
+        "quantity":       {"label": "Quantity", "ask": "the piece count"},
+        "finish":         {"label": "Finish / surface", "ask": "the finish (as machined, anodize, passivate, black oxide...)"},
+        "certs":          {"label": "Certifications", "ask": "which certs you need (CoC, material cert, RoHS, none)"},
+        "delivery_date":  {"label": "Delivery date", "ask": "the date you need it by"},
+        "units":          {"label": "Units", "ask": "whether the dimensions are inches or millimetres"}
+      }
+    }
+  }
+}
