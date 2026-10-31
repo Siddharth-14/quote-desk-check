@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Quote Desk Check</title>
+<meta name="description" content="An audit of an RFQ-triage agent on 30 synthetic manufacturing quote requests: how often its missing-spec flag is right.">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; font-src 'self'; img-src 'self'; connect-src 'self'; base-uri 'none'; form-action 'none'">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="preload" href="fonts/archivo-var.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip" href="#rfqs">Skip to the RFQ list</a>
+
+<header class="masthead">
+  <h1>Quote Desk Check</h1>
+  <p class="lede">An audit of an agent that reads manufacturing quote requests, flags the specs a customer left out, and holds the price until they arrive. This page shows how often that flag is right.</p>
+  <p class="notice" role="note"><strong>Synthetic data, illustrative prices.</strong> All 30 requests are invented and every price comes from made-up rules. This is a personal demo, not Forgepoint's product. Nothing here calls a live model.
+    <a href="https://github.com/Siddharth-14/quote-desk-check">View the repo on GitHub</a></p>
+</header>
+
+<main>
+  <section id="scoreboard" class="scoreboard" aria-labelledby="sb-title">
+    <h2 id="sb-title">Scoreboard</h2>
+    <p id="verdict" class="verdict" aria-live="polite">Loading the results.</p>
+    <div id="gauges" class="gauges"></div>
+    <p class="fine" id="gauge-note"></p>
+    <details class="more" id="ablation">
+      <summary>What the check layer adds</summary>
+      <div id="ablation-body"></div>
+    </details>
+    <details class="more" id="failure">
+      <summary id="failure-title">Top failure mode</summary>
+      <div id="failure-body"></div>
+    </details>
+  </section>
+
+  <section id="rfqs" class="workspace" data-view="list" aria-labelledby="rfq-title">
+    <div class="listpane" id="listpane">
+      <h2 id="rfq-title">The 30 requests</h2>
+      <div class="filters" id="filters" role="group" aria-label="Filter requests"></div>
+      <ul class="legend" aria-label="How to read the field strip">
+        <li><span class="cell found" aria-hidden="true"></span> Found in the email</li>
+        <li><span class="cell missing" aria-hidden="true"></span> Flagged missing</li>
+        <li><span class="cell found differs" aria-hidden="true"></span> Ring: agent disagrees with the hand label</li>
+      </ul>
+      <ol class="rows" id="rows"></ol>
+    </div>
+    <article class="detail" id="detail" tabindex="-1" aria-label="Request detail">
+      <div class="placeholder" id="placeholder">
+        <h2 id="detail-title-empty">Pick a request</h2>
+        <p>Open any request to see its email, what the agent read, the clarification draft, the price trace and similar past jobs.</p>
+      </div>
+      <div id="detail-body" hidden></div>
+    </article>
+  </section>
+</main>
+
+<footer class="limits" aria-labelledby="limits-title">
+  <h2 id="limits-title">Limits</h2>
+  <ul>
+    <li>The emails are synthetic: generated from templates, then paraphrased by a small local model. Real inboxes are messier.</li>
+    <li>There are 30 requests, so every rate has a wide interval. A zero is a result, not a guarantee.</li>
+    <li>One labeller wrote the labels, before the model ran. The checker and the labels follow the same written policy, so some agreement is by construction.</li>
+    <li>Prices come from invented rules and 80 invented past jobs. They say nothing about any real market.</li>
+  </ul>
+  <p class="fine" id="meta-line"></p>
+</footer>
+
+<div class="sr-only" id="announce" role="status" aria-live="polite"></div>
+<noscript><p class="notice">This page needs JavaScript to show the results. The data is in the repo as plain JSON.</p></noscript>
+<script src="app.js" defer></script>
+</body>
+</html>

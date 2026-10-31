@@ -105,8 +105,7 @@ def price(family, grade_text, dims_text, units, tol_text, qty, due, received):
     if vol <= 0:
         return manual("Computed volume is zero or negative.")
     key, dens, gmult = g
-    step("parse dimensions", f"'{dims_text}' read as {shape} {', '.join(f'{x:.3f}' for x in d)} in", vol)
-    step("volume (in^3)", f"{shape} formula", vol)
+    step("volume (in^3)", f"'{dims_text}' read as {shape} {', '.join(f'{x:.3f}' for x in d)} in", vol)
     wt = vol * dens
     step("piece weight (lb)", f"volume x density {dens} lb/in^3 ({key})", wt)
     base = BASE_PER_LB[family]

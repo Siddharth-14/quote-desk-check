@@ -1,0 +1,2 @@
+Archivo (Omnibus-Type) and Source Serif 4 (Adobe) are licensed under the SIL Open Font License 1.1.
+Latin subsets self-hosted from Google Fonts so the page makes no third-party requests.

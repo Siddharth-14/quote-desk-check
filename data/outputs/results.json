@@ -163,13 +163,8 @@
       "note": "Illustrative rule-based price, not a real quote. Finish and certs are not priced.",
       "steps": [
         {
-          "step": "parse dimensions",
-          "detail": "'12 mm OD x 25 mm long' read as round 0.472, 0.984 in",
-          "value": 0.1725
-        },
-        {
           "step": "volume (in^3)",
-          "detail": "round formula",
+          "detail": "'12 mm OD x 25 mm long' read as round 0.472, 0.984 in",
           "value": 0.1725
         },
         {
@@ -1105,13 +1100,8 @@
       "note": "Illustrative rule-based price, not a real quote. Finish and certs are not priced.",
       "steps": [
         {
-          "step": "parse dimensions",
-          "detail": "'1.25 in dia x 12 ft' read as round 1.250, 144.000 in",
-          "value": 176.7146
-        },
-        {
           "step": "volume (in^3)",
-          "detail": "round formula",
+          "detail": "'1.25 in dia x 12 ft' read as round 1.250, 144.000 in",
           "value": 176.7146
         },
         {
@@ -1349,13 +1339,8 @@
       "note": "Illustrative rule-based price, not a real quote. Finish and certs are not priced.",
       "steps": [
         {
-          "step": "parse dimensions",
-          "detail": "'25 mm OD x 3 mm wall x 6000 mm' read as tube 0.984, 0.118, 236.220 in",
-          "value": 75.9179
-        },
-        {
           "step": "volume (in^3)",
-          "detail": "tube formula",
+          "detail": "'25 mm OD x 3 mm wall x 6000 mm' read as tube 0.984, 0.118, 236.220 in",
           "value": 75.9179
         },
         {
@@ -1792,13 +1777,8 @@
       "note": "Illustrative rule-based price, not a real quote. Finish and certs are not priced.",
       "steps": [
         {
-          "step": "parse dimensions",
-          "detail": "'0.5 in OD x 4 in long' read as round 0.500, 4.000 in",
-          "value": 0.7854
-        },
-        {
           "step": "volume (in^3)",
-          "detail": "round formula",
+          "detail": "'0.5 in OD x 4 in long' read as round 0.500, 4.000 in",
           "value": 0.7854
         },
         {
@@ -2036,13 +2016,8 @@
       "note": "Illustrative rule-based price, not a real quote. Finish and certs are not priced.",
       "steps": [
         {
-          "step": "parse dimensions",
-          "detail": "'0.375 in OD x 2 in long' read as round 0.375, 2.000 in",
-          "value": 0.2209
-        },
-        {
           "step": "volume (in^3)",
-          "detail": "round formula",
+          "detail": "'0.375 in OD x 2 in long' read as round 0.375, 2.000 in",
           "value": 0.2209
         },
         {
@@ -2180,13 +2155,8 @@
       "note": "Illustrative rule-based price, not a real quote. Finish and certs are not priced.",
       "steps": [
         {
-          "step": "parse dimensions",
-          "detail": "'3 in dia x 12 ft' read as round 3.000, 144.000 in",
-          "value": 1017.876
-        },
-        {
           "step": "volume (in^3)",
-          "detail": "round formula",
+          "detail": "'3 in dia x 12 ft' read as round 3.000, 144.000 in",
           "value": 1017.876
         },
         {
@@ -2524,13 +2494,8 @@
       "note": "Illustrative rule-based price, not a real quote. Finish and certs are not priced.",
       "steps": [
         {
-          "step": "parse dimensions",
-          "detail": "'1.5 in OD x 3.5 in long' read as round 1.500, 3.500 in",
-          "value": 6.185
-        },
-        {
           "step": "volume (in^3)",
-          "detail": "round formula",
+          "detail": "'1.5 in OD x 3.5 in long' read as round 1.500, 3.500 in",
           "value": 6.185
         },
         {
@@ -2766,13 +2731,8 @@
       "note": "Illustrative rule-based price, not a real quote. Finish and certs are not priced.",
       "steps": [
         {
-          "step": "parse dimensions",
-          "detail": "'1.25 in OD x 1.5 in long' read as round 1.250, 1.500 in",
-          "value": 1.8408
-        },
-        {
           "step": "volume (in^3)",
-          "detail": "round formula",
+          "detail": "'1.25 in OD x 1.5 in long' read as round 1.250, 1.500 in",
           "value": 1.8408
         },
         {
@@ -3010,13 +2970,8 @@
       "note": "Illustrative rule-based price, not a real quote. Finish and certs are not priced.",
       "steps": [
         {
-          "step": "parse dimensions",
-          "detail": "'1 in OD x 0.188 in wall x 20 ft' read as tube 1.000, 0.188, 240.000 in",
-          "value": 115.0999
-        },
-        {
           "step": "volume (in^3)",
-          "detail": "tube formula",
+          "detail": "'1 in OD x 0.188 in wall x 20 ft' read as tube 1.000, 0.188, 240.000 in",
           "value": 115.0999
         },
         {
@@ -3154,13 +3109,8 @@
       "note": "Illustrative rule-based price, not a real quote. Finish and certs are not priced.",
       "steps": [
         {
-          "step": "parse dimensions",
-          "detail": "'0.5 in OD x 1.5 in long' read as round 0.500, 1.500 in",
-          "value": 0.2945
-        },
-        {
           "step": "volume (in^3)",
-          "detail": "round formula",
+          "detail": "'0.5 in OD x 1.5 in long' read as round 0.500, 1.500 in",
           "value": 0.2945
         },
         {
@@ -3400,13 +3350,8 @@
       "note": "Illustrative rule-based price, not a real quote. Finish and certs are not priced.",
       "steps": [
         {
-          "step": "parse dimensions",
-          "detail": "'1 in OD x 6 in long' read as round 1.000, 6.000 in",
-          "value": 4.7124
-        },
-        {
           "step": "volume (in^3)",
-          "detail": "round formula",
+          "detail": "'1 in OD x 6 in long' read as round 1.000, 6.000 in",
           "value": 4.7124
         },
         {
